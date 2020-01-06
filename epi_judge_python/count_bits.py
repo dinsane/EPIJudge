@@ -3,8 +3,6 @@ from test_framework import generic_test
 
 def count_bits(x):
     # TODO - you fill in here.
-    print("test commit")
-    print("test")
 
     return 0
 
